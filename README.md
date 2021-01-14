@@ -1,6 +1,6 @@
 # Airoud_Portfolio
 Portfolio that shows my projects 
-Project I - Titanic-Machine-Learning-from-Disaster(https://github.com/airoud/Titanic-Machine-Learning-from-Disaster/tree/Scaling-Features)
+#[Project 1 - Titanic-Machine-Learning-from-Disaster](https://github.com/airoud/Titanic-Machine-Learning-from-Disaster/tree/Scaling-Features)
 Kaggle competition - The Titanic - Machine Learning from Disaster
 
 In this branch, i'am workinig with scaled datasets.
