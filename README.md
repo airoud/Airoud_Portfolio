@@ -13,5 +13,4 @@ Understanding the dataset Exploratory data analysis with visualizations Data cle
 # [Project 2 - Tesla-stock-price-prediction (Regression)](https://github.com/airoud/Tesla-stock-price-prediction)
 
 
-
-# [Project 3 - Sentiment_Analysis (NLP)](https://github.com/airoud/Sentiment-Analysis)
+# [Project 3 - Breast Cancer Detection Using SVM and KNN (Classification)](https://github.com/airoud/Breast-Cancer-Detection-Using-SVM-and-KNN)
