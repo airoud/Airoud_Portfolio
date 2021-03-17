@@ -1,6 +1,6 @@
 # Airoud_Portfolio
-Portfolio that shows my projects 
-
+This portfolio shows the different projects I have worked on. 
+I invite you to consult this work.
 
 # [Project 1 - Breast Cancer Detection Using SVM and KNN (Classification)](https://github.com/airoud/Breast-Cancer-Detection-Using-SVM-and-KNN)
 Background
