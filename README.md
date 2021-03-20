@@ -20,7 +20,7 @@ We will be using different algorithms such as Logistic Regression, Support Vecto
 # [Project 3 - Predicting-Compressive-Strengh-of-Concrete (Regression)](https://github.com/airoud/Predicting-Compressive-Strengh-of-Concrete)
 In this machine learning project, we will dive into the cement manufacturing industry. We will be predicting the compressive strength of concrete with as many as 18+ different algorithms by doing feature engineering, model tuning and selection to get the best model.
 
-# [Project 4 - Tesla-stock-price-prediction (Regression)](https://github.com/airoud/Tesla-stock-price-prediction)
+# [Project 4 - Tesla-Stock-Price-Prediction (Regression)](https://github.com/airoud/Tesla-stock-price-prediction)
 
 # [Project 5 - Titanic-Machine-Learning-from-Disaster ( Classification)](https://github.com/airoud/Titanic-Machine-Learning-from-Disaster/tree/Scaling-Features)
 Kaggle competition - The Titanic - Machine Learning from Disaster
